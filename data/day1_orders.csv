@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,email,product_id,product_name,category,quantity,price,order_status,order_date,updated_at
+ORD1001,CUST101,Ravi Kumar,ravi.kumar@gmail.com,PROD501,Running Shoes,Footwear,1,89.99,Completed,2026-06-01,2026-06-01 10:15:00
+ORD1002,CUST102,John Smith,john.smith@gmail.com,PROD502,Smart Watch,Electronics,1,149.99,Completed,2026-06-01,2026-06-01 11:20:00
+ORD1003,CUST103,Anu Reddy,anu.reddy@gmail.com,PROD503,Backpack,Bags,2,59.99,Completed,2026-06-01,2026-06-01 12:10:00
+ORD1004,CUST104,David Lee,david.lee@gmail.com,PROD504,T-Shirt,Apparel,3,19.99,Completed,2026-06-01,2026-06-01 13:05:00
+ORD1005,CUST105,Meena Patel,meena.patel@gmail.com,PROD505,Jeans,Apparel,1,49.99,Completed,2026-06-01,2026-06-01 14:30:00
