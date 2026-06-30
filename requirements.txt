@@ -1,0 +1,6 @@
+pandas
+google-cloud-storage
+google-cloud-bigquery
+apache-airflow
+apache-beam
+google-cloud-pubsub
