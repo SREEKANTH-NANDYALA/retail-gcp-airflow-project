@@ -1,6 +1,51 @@
 order_id,customer_id,customer_name,email,product_id,product_name,category,quantity,price,order_status,order_date,updated_at
-ORD1001,CUST101,Ravi Kumar,ravi.kumar@gmail.com,PROD501,Running Shoes,Footwear,1,89.99,Completed,2026-06-01,2026-06-01 10:15:00
-ORD1002,CUST102,John Smith,john.smith@gmail.com,PROD502,Smart Watch,Electronics,1,149.99,Completed,2026-06-01,2026-06-01 11:20:00
-ORD1003,CUST103,Anu Reddy,anu.reddy@gmail.com,PROD503,Backpack,Bags,2,59.99,Completed,2026-06-01,2026-06-01 12:10:00
-ORD1004,CUST104,David Lee,david.lee@gmail.com,PROD504,T-Shirt,Apparel,3,19.99,Completed,2026-06-01,2026-06-01 13:05:00
-ORD1005,CUST105,Meena Patel,meena.patel@gmail.com,PROD505,Jeans,Apparel,1,49.99,Completed,2026-06-01,2026-06-01 14:30:00
+ORD1001,CUST1000,Customer 1,customer1@gmail.com,PROD503,Backpack,Bags,2,59.99,Shipped,2026-06-01,2026-06-01 17:41:00
+ORD1002,CUST1001,Customer 2,customer2@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Processing,2026-06-01,2026-06-01 9:38:00
+ORD1003,CUST1002,Customer 3,customer3@gmail.com,PROD504,T-Shirt,Apparel,2,19.99,Completed,2026-06-01,2026-06-01 11:44:00
+ORD1004,CUST1003,Customer 4,customer4@gmail.com,PROD501,Running Shoes,Footwear,2,89.99,Completed,2026-06-01,2026-06-01 16:39:00
+ORD1005,CUST1004,Customer 5,customer5@gmail.com,PROD505,Jeans,Apparel,3,49.99,Shipped,2026-06-01,2026-06-01 10:32:00
+ORD1006,CUST1005,Customer 6,customer6@gmail.com,PROD503,Backpack,Bags,1,59.99,Processing,2026-06-01,2026-06-01 16:25:00
+ORD1007,CUST1006,Customer 7,customer7@gmail.com,PROD504,T-Shirt,Apparel,4,19.99,Processing,2026-06-01,2026-06-01 13:17:00
+ORD1008,CUST1007,Customer 8,customer8@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Processing,2026-06-01,2026-06-01 16:57:00
+ORD1009,CUST1008,Customer 9,customer9@gmail.com,PROD503,Backpack,Bags,3,59.99,Processing,2026-06-01,2026-06-01 13:31:00
+ORD1010,CUST1009,Customer 10,customer10@gmail.com,PROD504,T-Shirt,Apparel,2,19.99,Completed,2026-06-01,2026-06-01 17:47:00
+ORD1011,CUST1010,Customer 11,customer11@gmail.com,PROD503,Backpack,Bags,4,59.99,Shipped,2026-06-01,2026-06-01 15:59:00
+ORD1012,CUST1011,Customer 12,customer12@gmail.com,PROD503,Backpack,Bags,4,59.99,Completed,2026-06-01,2026-06-01 15:57:00
+ORD1013,CUST1012,Customer 13,customer13@gmail.com,PROD501,Running Shoes,Footwear,4,89.99,Completed,2026-06-01,2026-06-01 11:56:00
+ORD1014,CUST1013,Customer 14,customer14@gmail.com,PROD503,Backpack,Bags,1,59.99,Completed,2026-06-01,2026-06-01 13:59:00
+ORD1015,CUST1014,Customer 15,customer15@gmail.com,PROD504,T-Shirt,Apparel,1,19.99,Shipped,2026-06-01,2026-06-01 9:31:00
+ORD1016,CUST1015,Customer 16,customer16@gmail.com,PROD503,Backpack,Bags,3,59.99,Shipped,2026-06-01,2026-06-01 11:48:00
+ORD1017,CUST1016,Customer 17,customer17@gmail.com,PROD504,T-Shirt,Apparel,4,19.99,Processing,2026-06-01,2026-06-01 15:58:00
+ORD1018,CUST1017,Customer 18,customer18@gmail.com,PROD502,Smart Watch,Electronics,4,149.99,Completed,2026-06-01,2026-06-01 14:41:00
+ORD1019,CUST1018,Customer 19,customer19@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Completed,2026-06-01,2026-06-01 16:58:00
+ORD1020,CUST1019,Customer 20,customer20@gmail.com,PROD505,Jeans,Apparel,2,49.99,Completed,2026-06-01,2026-06-01 13:52:00
+ORD1021,CUST1020,Customer 21,customer21@gmail.com,PROD504,T-Shirt,Apparel,2,19.99,Processing,2026-06-01,2026-06-01 10:11:00
+ORD1022,CUST1021,Customer 22,customer22@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Completed,2026-06-01,2026-06-01 10:33:00
+ORD1023,CUST1022,Customer 23,customer23@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Processing,2026-06-01,2026-06-01 9:54:00
+ORD1024,CUST1023,Customer 24,customer24@gmail.com,PROD502,Smart Watch,Electronics,4,149.99,Completed,2026-06-01,2026-06-01 13:35:00
+ORD1025,CUST1024,Customer 25,customer25@gmail.com,PROD504,T-Shirt,Apparel,1,19.99,Processing,2026-06-01,2026-06-01 16:20:00
+ORD1026,CUST1025,Customer 26,customer26@gmail.com,PROD501,Running Shoes,Footwear,1,89.99,Completed,2026-06-01,2026-06-01 12:19:00
+ORD1027,CUST1026,Customer 27,customer27@gmail.com,PROD501,Running Shoes,Footwear,3,89.99,Completed,2026-06-01,2026-06-01 10:23:00
+ORD1028,CUST1027,Customer 28,customer28@gmail.com,PROD501,Running Shoes,Footwear,1,89.99,Shipped,2026-06-01,2026-06-01 11:55:00
+ORD1029,CUST1028,Customer 29,customer29@gmail.com,PROD501,Running Shoes,Footwear,2,89.99,Completed,2026-06-01,2026-06-01 10:58:00
+ORD1030,CUST1029,Customer 30,customer30@gmail.com,PROD501,Running Shoes,Footwear,2,89.99,Processing,2026-06-01,2026-06-01 17:23:00
+ORD1031,CUST1030,Customer 31,customer31@gmail.com,PROD503,Backpack,Bags,4,59.99,Processing,2026-06-01,2026-06-01 11:18:00
+ORD1032,CUST1031,Customer 32,customer32@gmail.com,PROD501,Running Shoes,Footwear,1,89.99,Completed,2026-06-01,2026-06-01 15:13:00
+ORD1033,CUST1032,Customer 33,customer33@gmail.com,PROD503,Backpack,Bags,2,59.99,Processing,2026-06-01,2026-06-01 16:16:00
+ORD1034,CUST1033,Customer 34,customer34@gmail.com,PROD502,Smart Watch,Electronics,3,149.99,Completed,2026-06-01,2026-06-01 12:12:00
+ORD1035,CUST1034,Customer 35,customer35@gmail.com,PROD502,Smart Watch,Electronics,4,149.99,Completed,2026-06-01,2026-06-01 10:36:00
+ORD1036,CUST1035,Customer 36,customer36@gmail.com,PROD502,Smart Watch,Electronics,4,149.99,Processing,2026-06-01,2026-06-01 15:37:00
+ORD1037,CUST1036,Customer 37,customer37@gmail.com,PROD502,Smart Watch,Electronics,4,149.99,Processing,2026-06-01,2026-06-01 17:19:00
+ORD1038,CUST1037,Customer 38,customer38@gmail.com,PROD505,Jeans,Apparel,2,49.99,Completed,2026-06-01,2026-06-01 14:22:00
+ORD1039,CUST1038,Customer 39,customer39@gmail.com,PROD504,T-Shirt,Apparel,1,19.99,Completed,2026-06-01,2026-06-01 12:58:00
+ORD1040,CUST1039,Customer 40,customer40@gmail.com,PROD505,Jeans,Apparel,2,49.99,Completed,2026-06-01,2026-06-01 14:26:00
+ORD1041,CUST1040,Customer 41,customer41@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Completed,2026-06-01,2026-06-01 13:55:00
+ORD1042,CUST1041,Customer 42,customer42@gmail.com,PROD504,T-Shirt,Apparel,4,19.99,Processing,2026-06-01,2026-06-01 15:33:00
+ORD1043,CUST1042,Customer 43,customer43@gmail.com,PROD501,Running Shoes,Footwear,3,89.99,Processing,2026-06-01,2026-06-01 13:37:00
+ORD1044,CUST1043,Customer 44,customer44@gmail.com,PROD503,Backpack,Bags,4,59.99,Processing,2026-06-01,2026-06-01 13:56:00
+ORD1045,CUST1044,Customer 45,customer45@gmail.com,PROD501,Running Shoes,Footwear,3,89.99,Shipped,2026-06-01,2026-06-01 15:11:00
+ORD1046,CUST1045,Customer 46,customer46@gmail.com,PROD505,Jeans,Apparel,2,49.99,Shipped,2026-06-01,2026-06-01 13:40:00
+ORD1047,CUST1046,Customer 47,customer47@gmail.com,PROD503,Backpack,Bags,2,59.99,Shipped,2026-06-01,2026-06-01 13:17:00
+ORD1048,CUST1047,Customer 48,customer48@gmail.com,PROD502,Smart Watch,Electronics,2,149.99,Processing,2026-06-01,2026-06-01 18:59:00
+ORD1049,CUST1048,Customer 49,customer49@gmail.com,PROD503,Backpack,Bags,2,59.99,Processing,2026-06-01,2026-06-01 17:20:00
+ORD1050,CUST1049,Customer 50,customer50@gmail.com,PROD505,Jeans,Apparel,3,49.99,Completed,2026-06-01,2026-06-01 18:43:00
